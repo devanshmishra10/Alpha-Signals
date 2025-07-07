@@ -14,9 +14,9 @@ The key goal was to **outperform a random prediction baseline** in both accuracy
 
 # Sample results from your notebook
 results = {
-    'Logistic Regression': {'Accuracy': 0.532, 'Sharpe Ratio': 0.58},
-    'Random Forest': {'Accuracy': 0.551, 'Sharpe Ratio': 0.93},
-    'XGBoost': {'Accuracy': 0.574, 'Sharpe Ratio': 1.12},
+    'Logistic Regression': {'Accuracy': 0.51515, 'Sharpe Ratio': 1.26},
+    'Random Forest': {'Accuracy': 0.52525, 'Sharpe Ratio': 2.57},
+    'XGBoost': {'Accuracy': 0.53535, 'Sharpe Ratio': 3.30},
     'Random Baseline': {'Accuracy': None, 'Sharpe Ratio': 0.02}
 }
 
